@@ -13,6 +13,8 @@ int main() {
 	cout << "!!!bart-wow!!!" << endl; // prints !!!bart-wow!!!
 	cout << "!!!stop!!!" << endl; // prints !!!stop!!!
 	cout << "!!!go!!!" << endl; // prints !!!stop!!!
+	cout << "!!!stop1!!!" << endl; // prints !!!stop!!!
+	cout << "!!!go1!!!" << endl; // prints !!!stop!!!
 	cout << "!!!stop!!!" << endl; // prints !!!stop!!!
 	return 0;
 }
