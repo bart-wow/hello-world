@@ -12,5 +12,7 @@ using namespace std;
 int main() {
 	cout << "!!!bart-wow!!!" << endl; // prints !!!bart-wow!!!
 	cout << "!!!stop!!!" << endl; // prints !!!stop!!!
+	cout << "!!!go!!!" << endl; // prints !!!stop!!!
+	cout << "!!!stop!!!" << endl; // prints !!!stop!!!
 	return 0;
 }
